@@ -1,7 +1,7 @@
 weewx-sds011
 Copyright 2021- sbsRouteur
 
-Distributed under terms of MIT licence
+Distributed under terms of GPL V3T licence
 
 Based on Matthew wall driver, this is a service for weewx that collects data from SDS011 particulate sensor, and inserts them a the main recording loop.
 
